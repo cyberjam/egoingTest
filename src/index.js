@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import "./egoingTest/index.css";
+import "./index.css";
 import AppApp from "./App";
 import reportWebVitals from "./reportWebVitals";
 
